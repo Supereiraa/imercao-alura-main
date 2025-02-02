@@ -4,3 +4,7 @@
 
 🚀 Aprendizados da Imersão Alura: Manipulação de APIs com JavaScript, criação de interfaces interativas, uso de JSON Server para simular APIs e organização de projetos front-end
 
+
+Criar Json Server:
+Terminal: json-server --watch api-artists/artists.json --port 3000 
+
